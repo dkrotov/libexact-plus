@@ -1,0 +1,8 @@
+*.o
+*.a
+*~
+/solve
+/test
+/examples/example-first
+/examples/example-partition
+/examples/example-sudoku
